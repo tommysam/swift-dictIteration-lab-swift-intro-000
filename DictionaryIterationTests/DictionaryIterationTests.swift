@@ -58,7 +58,6 @@ class DictionaryIterationTests: XCTestCase {
         XCTAssertTrue(sentence.contains("The Kinks's top-selling album was Low Budget."))
         XCTAssertTrue(sentence.contains("Blondie's top-selling album was Parallel Lines."))
         XCTAssertTrue(sentence.contains("Nirvana's top-selling album was Nevermind."))
-        print(sentence)
     }
     
     func testTypeOfDataStructure() {
