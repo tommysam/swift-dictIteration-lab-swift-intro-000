@@ -96,7 +96,7 @@ In your implementation of this function, you should iterate over the `grades` `D
 In sticking with the example provided above, if we were to call on your function passing in that `grades` `Dictionary`, we would be met with the following:
 
 ```swift
-let result = testClass.highestGrade(grades)
+highestGrade(grades)
 // 9
 ```
 
